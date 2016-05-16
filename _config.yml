@@ -1,7 +1,7 @@
 name: Ta.io
 favicon: null
-layout_spectrum: 0.8913762681186199
-typography_spectrum: 0.5474356347694993
+layout_spectrum: 1
+typography_spectrum: 0.05653
 cta:
   domain: null
   bucket: null
